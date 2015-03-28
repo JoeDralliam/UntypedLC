@@ -1,0 +1,3 @@
+(Un) - typed - LC
+
+A basoc implementation a lambda calculus in Coq (using De Bruijn index), and proofs of confluence, of termination of the simply typed calculus...
